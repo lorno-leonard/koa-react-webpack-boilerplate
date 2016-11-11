@@ -11,6 +11,9 @@ $ npm run start
 ```
 Access [http://localhost:3000/](http://localhost:3000/)
 
+Username: admin
+Password: 11223344
+
 Development:
 - run ``` npm run start ``` in a terminal
 - in a separate terminal, run ``` nmp run webpack-dev ```
