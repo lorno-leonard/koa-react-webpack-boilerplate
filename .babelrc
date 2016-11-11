@@ -1,0 +1,15 @@
+{
+  "presets": [
+    "es2015",
+    "react"
+  ],
+  "plugins": [
+    "transform-strict-mode",
+    "transform-regenerator",
+    "transform-runtime",
+    ["transform-builtin-extend", {
+      "globals": ["Error", "Array"]
+    }]
+  ],
+  "retainLines": true
+}
